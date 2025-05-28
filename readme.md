@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-I'm a passionate programming student with experience in Java, Go, and Python, aiming to kickstart my career as a backend developer. Currently, I'm enhancing my skills through courses on Alura, focusing on backend development.
+I'm a passionate programming student with experience in Java, Go, and Python, aiming to kickstart my career as a backend/fullstack developer. Currently, I'm enhancing my skills through courses on Alura, focusing on backend development.
 
 I am constantly seeking to learn new technologies and improve my developer skills.
 
