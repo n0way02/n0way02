@@ -66,5 +66,5 @@ Here are some of my featured projects:
 
 I'm always open to new opportunities. Feel free to reach out!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-de-lima-barbosa-18b74a210/)
 - 🖥️ [Portfolio](https://vinicius-portifolio.online/)
