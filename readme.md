@@ -12,7 +12,7 @@ I'm a passionate programming student with experience in Java, Go, and Python, ai
 
 I am constantly seeking to learn new technologies and improve my developer skills.
 
-<img src="https://github-readme-stats.vercel.app/api?username=n0way02&show_icons=true&theme=dark" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=n0way02&show_icons=true&theme=dark" alt="GitHub Stats" />
 
 ---
 
