@@ -41,7 +41,7 @@ Here are some of my featured projects:
   [View on GitHub](https://github.com/n0way02/ffxiv_discord_bot)
 
 - **FFXIV Store**: A complete sales platform for Final Fantasy XIV services, consisting of a modern React website and a Discord bot. *(React, Python)*  
-  [View Project]([https://www.ffxivstore.store](https://site-vendas-ffxiv-git-master-vinicius-projects-75ca492b.vercel.app/)) | [View on GitHub](https://github.com/n0way02/ffxivstore/)
+  [View Project](https://site-vendas-ffxiv-git-master-vinicius-projects-75ca492b.vercel.app/) | [View on GitHub](https://github.com/n0way02/ffxivstore/)
 
 - **FF Logs Discord Bot**: Discord bot that fetches player data from FF Logs and displays it in embeds in a specific Discord channel. *(Go)*  
   [View on GitHub](https://github.com/n0way02/fflogs-bot)
