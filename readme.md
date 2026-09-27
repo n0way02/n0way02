@@ -62,7 +62,7 @@ Here are some of my featured projects:
 - **React: developing in React Router with JavaScript** – Alura, April 2025  
   [View Certificate](https://cursos.alura.com.br/user/vinilimab/course/React-desenvolvendo-react-router-javaScript/certificate?lang=en)
 
-- [More Certificates]([https://vinicius-portifolio.online/#certificates](https://portifolio-7tml-pbxxim0n4-vinicius-projects-75ca492b.vercel.app/#certificates))
+- [More Certificates](https://portifolio-7tml-pbxxim0n4-vinicius-projects-75ca492b.vercel.app/#certificates)
 
 ---
 
