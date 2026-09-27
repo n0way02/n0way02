@@ -41,7 +41,7 @@ Here are some of my featured projects:
   [View on GitHub](https://github.com/n0way02/ffxiv_discord_bot)
 
 - **FFXIV Store**: A complete sales platform for Final Fantasy XIV services, consisting of a modern React website and a Discord bot. *(React, Python)*  
-  [View Project](https://www.ffxivstore.store) | [View on GitHub](https://github.com/n0way02/ffxivstore/)
+  [View Project]([https://www.ffxivstore.store](https://site-vendas-ffxiv-git-master-vinicius-projects-75ca492b.vercel.app/)) | [View on GitHub](https://github.com/n0way02/ffxivstore/)
 
 - **FF Logs Discord Bot**: Discord bot that fetches player data from FF Logs and displays it in embeds in a specific Discord channel. *(Go)*  
   [View on GitHub](https://github.com/n0way02/fflogs-bot)
@@ -62,7 +62,7 @@ Here are some of my featured projects:
 - **React: developing in React Router with JavaScript** – Alura, April 2025  
   [View Certificate](https://cursos.alura.com.br/user/vinilimab/course/React-desenvolvendo-react-router-javaScript/certificate?lang=en)
 
-- [More Certificates](https://vinicius-portifolio.online/#certificates)
+- [More Certificates]([https://vinicius-portifolio.online/#certificates](https://portifolio-7tml-pbxxim0n4-vinicius-projects-75ca492b.vercel.app/#certificates))
 
 ---
 
